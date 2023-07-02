@@ -1,0 +1,20 @@
+[
+	{
+		"Title": ".Net 6 WebAPI - Intro to ElasticSearch - Step by Step #aspnetcore",
+		"Url": "https://www.youtube.com/watch?v=oPxoQKdC8sI&t=1253s",
+		"Description": "Intro to ElasticSearch",
+		"Tags": "net 6, api, elastic, elastic search, elk"
+	},
+	{
+		"Title": "Caching with Redis",
+		"Url": "https://www.youtube.com/watch?v=6HZVu3kGOrg",
+		"Description": "Caching with Redis",
+		"Tags": "cache, caching, redis"
+	},
+	{
+		"Title": "Distributed Caching with Redis",
+		"Url": "https://www.youtube.com/watch?v=Tt5zIKVMMbs",
+		"Description": "Caching with Redis",
+		"Tags": "cache, caching, redis, distributed"
+	}
+]
